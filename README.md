@@ -7,7 +7,7 @@
 1. Create a folder structure similar to this repository on your local computer or on your Google Drive.
 2. Download the files in the folder "Primary and secondary paths" and copy them to your "Primary and secondary paths" folder.
 3. Download the files in the folder "ANC Audio files" and copy them to your "ANC Audio files" folder.
-4. Download the file "FxLMS.ipynb" and Load it to Visual Studio Code or Google Colab. Follow the procedures in this file and answer the questions. Put your observations and answers in your report.
+4. Download the file "FxLMS.ipynb" and load it to Visual Studio Code or Google Colab. Follow the procedures in this file and answer the questions. Put your observations and answers in your report.
 
 You may either use Visual Studio Code (see https://code.visualstudio.com/docs/introvideos/basics) or Google Colab (see https://www.geeksforgeeks.org/how-to-use-google-colab/) to complete this lab exercise.
 
