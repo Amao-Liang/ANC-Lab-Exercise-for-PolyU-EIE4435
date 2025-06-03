@@ -12,6 +12,6 @@
 You may either use Visual Studio Code (see https://code.visualstudio.com/docs/introvideos/basics) or Google Colab (see https://www.geeksforgeeks.org/how-to-use-google-colab/) to complete this lab exercise.
 
 ## Acknowledgement
-Very grateful to Dr. Zhengding Luo and Dr. Dongyuan Shi for providing the audio files and the impulse responses of the primary and secondary paths. You can click the link: https://github.com/Luo-Zhengding/SFANC-FxNLMS-ANC-Algorithm-based-on-Deep-Learning to learn more about the deep learning-based ANC approach.
+Very grateful to Dr. Dongyuan Shi and Dr. Zhengding Luo for providing the audio files and the impulse responses of the primary and secondary paths. You may click the link: https://github.com/Luo-Zhengding/SFANC-FxNLMS-ANC-Algorithm-based-on-Deep-Learning to learn more about the deep learning-based ANC approach.
 
  
